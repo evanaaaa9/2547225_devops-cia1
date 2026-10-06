@@ -1,0 +1,5 @@
+node_modules
+.env
+.git
+student-docker-app
+npm-debug.log
